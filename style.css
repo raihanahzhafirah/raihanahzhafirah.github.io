@@ -1,0 +1,29 @@
+body {background-image: url("foto.jpg");
+	background-repeat: no-repeat;
+	background-size: 150%
+}
+h1 {color: black;
+	border-style: outset;
+	background-color:#FFF4C2;
+	text-orientation: center;
+	font-size: 300%;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+table,th,tr {border: 2px brown;
+	font-style: "width:50%";
+	background-color: #FFF4C2;
+}
+h2 {color: brown;
+	font-size: 200%;
+	border-style: solid;
+	background-color: #FFF4C2;
+	margin-right: 100px;
+	margin-left: 100px;
+}
+p{border-style: solid;
+	background-color: #FFF4C2;
+	font-size: 150%;
+	margin-right: 100px;
+	margin-left: 100px;
+}
